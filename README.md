@@ -3,36 +3,42 @@
 For each presentation, copy-and-paste then fill-in-the-blanks.  You must comment on at least one thing. 
 
 
-
 Title of presentation:
 
 What were aspects of the presentation that you liked:
 
 What were aspects of the presentations for which you had concerns or questions:
 
+---
 
+## 1 Fragile Families
 
+Pros: They have a great explanation and explanation of their project.
 
+Cons: They do not have a clear view of their results. They should do more analysis and data visulizations
 
-Title of presentation:
+## 2 Mass shootings events
 
-What were aspects of the presentation that you liked:
+Pros: Fantastic visulization! Cluster makes senses heherere.
 
-What were aspects of the presentations for which you had concerns or questions:
+Cons: Exploratory analysis is not enough. They can do some more model improvement.
 
+## 3 Predicting voter turnout
 
+Pros: Aha, they use Shiny to do the presentation.
 
+Cons: They sould do more statitical analysis.
 
+## 4 Yelp
 
-Title of presentation:
+Pros: They have a clear idea of what they want to do.
 
-What were aspects of the presentation that you liked:
+Cons: Mm... the presentation is somewhat boring.
 
-What were aspects of the presentations for which you had concerns or questions:
+## 5 Chicago Crime
 
+Pros: Good analysis! They drill into the data and do good explanation toward outliers.
 
-
-
-
+Cons: They do a lot time in analysis their Poisson method rather than the result.
 
 
