@@ -41,4 +41,47 @@ Pros: Good analysis! They drill into the data and do good explanation toward out
 
 Cons: They do a lot time in analysis their Poisson method rather than the result.
 
+---
+
+## 6: League of Legends
+
+Pros: Have detailed prediction data
+
+Cons: Visualization is not enough. Presentation is boring.
+
+---
+
+##7: American H1B workers
+
+Pros: Use different models to do the analysis
+
+Cons: Visualizations should be improved
+
+---
+
+##8: NHTSA-FARS
+
+Pros: Have detailed variable dealing process
+Cons: Not excited
+
+---
+
+##9: world bank
+
+Pros: Good Exploratary
+
+Cons: Data Exploration is too long.
+
+---
+
+##10: NBA Analysis
+
+Pros: Fantastic visulizations. 
+
+Cons: Active in the beginning but cool down when presentation keeps going.
+
+### 11: GTD
+
+Mm, I am the GTD group
+
 
